@@ -44,15 +44,6 @@ portfolio/
 │── resume.pdf      # Downloadable resume
 │── README.md       # Project documentation
 
-
----
-
-🚀 How to View
-
-🔗 Live Demo
-
-👉 (Add GitHub Pages or live URL here after hosting)
-
 🖥️ Run Locally
 
 1. Clone the repository
