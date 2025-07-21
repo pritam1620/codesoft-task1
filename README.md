@@ -2,13 +2,6 @@ Pritam Yadav - Personal Portfolio
 
 A personal portfolio website showcasing my skills, projects, and resume. It serves as a digital identity for my web development journey and highlights my achievements and experience.
 
-📸 Preview
-
-(Add a screenshot of your portfolio here once hosted)
-
-
----
-
 ✨ Features
 
 ✅ About Me section with a brief introduction
