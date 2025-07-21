@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pritam Yadav - Portfolio</title>
+  <style>
+    /* ====== Global Styles ====== */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      color: lab(21.25% 0 0);
+      background: lch(97.93% 0.01 296.81 / 0);
+    }
+    h1, h2 {
+      text-align: center;
+      margin-top: 20px;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    img {
+      max-width: 150px;
+      border-radius: 50%;
+      display: block;
+      margin: 20px auto;
+    }
+    .skills-list, .projects-list {G
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+      justify-content: center;
+      list-style: none;
+      padding: 0;
+    }
+    .skills-list li, .project-card {
+      background: hwb(0 100% 0% / 0);
+      padding: 15px;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px hsla(0, 0%, 0%, 0.81);
+    }
+    .project-card {
+      max-width: 250px;
+      text-align: center;
+    }
+    .project-card img {
+      width: 100%;
+      border-radius: 5px;
+    }
+    .resume-link {
+      display: block;
+      text-align: center;
+      margin-top: 20px;
+      padding: 10px 15px;
+      background: #6200ff;
+      color: rgba(255, 255, 255, 0.942);
+      text-decoration: none;
+      border-radius: 5px;
+      width: 200px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .contact-info {
+      text-align: center;
+    }
+    footer {
+      background: #22222246;
+      color: rgb(123, 33, 150);
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <h1>Pritam Yadav</h1>
+    <p style="text-align:center;">Frontend Developer | Web Designer</p>
+  </header>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <h2>About Me</h2>
+    <img src="p.jpg" alt="Pritam Yadav">
+    <p style="text-align:center;">
+        B.Tech Computer Science student passionate about software and web development, Experienced in frontend development, data analytics, and problem-solving. 
+        Seeking opportunities to innovate in software engineering.
+    </p>
+  </section>
+
+  <!-- SKILLS -->
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul class="skills-list">
+      <li>Languages: Java, Python</li>
+      <li>Frontend: HTML, CSS, JavaScript</li>
+      <li>DB: SQL</li>
+      <li>Soft Skills: Problem Solving, Teamwork, Communication</li>
+      
+    </ul>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="projects-list">
+      <div class="project-card">
+        <img src="projectportfolio.png" alt="Project 1">
+        <h3>Portfolio Website</h3>
+        <p>A personal portfolio website showcasing my work and skills.</p>
+      </div>
+      <div class="project-card">
+        <img src="projectcalculator.png" alt="Project 2">
+        <h3>Calculator App</h3>
+        <p>A basic calculator built using HTML, CSS, and JavaScript.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- RESUME -->
+  <section id="resume">
+    <h2>Resume</h2>
+    <a href="myresume.pdf" download>Download Resume</a>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <div class="contact-info">
+      <p>Email: <a href="pritamyadav1620@gmail.com">pritamyadav1620@gmail.com</a></p>
+      <p>Phone: +91 9696974348</p>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    &copy; 2025 Pritam Yadav | All Rights Reserved
+  </footer>
+
+</body>
+</html>
