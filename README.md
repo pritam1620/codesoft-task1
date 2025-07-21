@@ -80,10 +80,4 @@ git clone https://github.com/your-username/portfolio.git
 This project is free to use for personal purposes.
 
 
----
-
-Would you like me to:
-
-✅ Add GitHub Pages hosting instructions so it’s live online?
-✅ Or also include future improvements (like adding animations, more projects, or JavaScript interactivity)?
 
