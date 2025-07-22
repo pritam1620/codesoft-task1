@@ -37,7 +37,7 @@ portfolio/
 │── resume.pdf      # Downloadable resume
 │── README.md       # Project documentation
 
-🖥️ Watch my porfolio here :[https://pritam1620.github.io/codesoft-task1/]
+🖥️ Watch my porfolio here :[https://pritam1620.github.io/task1/]
 
 
 
