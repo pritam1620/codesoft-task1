@@ -37,19 +37,9 @@ portfolio/
 │── resume.pdf      # Downloadable resume
 │── README.md       # Project documentation
 
-🖥️ Run Locally
-
-1. Clone the repository
-
-git clone file:///C:/Users/prita/OneDrive/Desktop/index.html
+🖥️ Watch my porfolio here :[https://pritam1620.github.io/codesoft-task1/]
 
 
-2. Open index.html in any browser
-
-
-
-
----
 
 📬 Contact
 
